@@ -51,7 +51,8 @@ input {
     width: 575px;
     height: 45px;
     border:rgb(223,225,229) 2px solid;
-    background-image: url(https://icon-library.net/icon/google-magnifying-glass-icon-2.jpg) url(https://icon-library.net/images/android-mic-icon/android-mic-icon-8.jpg);
+    background-image: url(http://icon-library.com/images/google-magnifying-glass-icon/google-magnifying-glass-icon-2.jpg),
+                      url(https://icon-library.net/images/android-mic-icon/android-mic-icon-8.jpg);
     background-size: 40px, 25px;
     background-position: 2% 50%, 98% 50%;
     background-repeat: no-repeat;
